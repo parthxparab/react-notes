@@ -1,6 +1,6 @@
 # Simple React Notes App 
 
-Notes SPA made using React.js and Material UI
+Note taking SPA made using React.js and Material UI
 
 # Getting Started with Create React App
 
